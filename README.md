@@ -1,3 +1,3 @@
 # cypmuestra2022
 
-https://gastonperez26.github.io/cypmuestra2022/Muestra2022Copia.html
+https://gastonperez26.github.io/cypmuestra2022/
