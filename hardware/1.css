@@ -1,0 +1,229 @@
+body{
+	margin: 5px;
+	background-image: url(9.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+}
+img{
+	max-width: 100%;
+	background-repeat: no-repeat;
+
+}
+
+
+#medicloud{
+	border: 3px solid #999;
+	box-sizing: border-box;
+	color: blaCK;
+	text-shadow: 1px 1px 1px white;
+	letter-spacing: 1px;
+	float: left;
+	padding: 1em;
+	width: 33%;
+	font-size: 18px;
+}
+#medicloud1{
+	border: 3px solid #999;
+	box-sizing: border-box;
+	color: #444;
+	float: left;
+	padding: 1em;
+	width: 33%;
+
+}
+#medicloud2{
+	border: 3px solid #999;
+	box-sizing: border-box;
+	color: blaCK;
+	text-shadow: 1px 1px 1px white;
+	letter-spacing: 1px;
+	float: left;
+	padding: 1em;
+	width: 28%;
+	font-size: 18px;
+}
+
+#software{
+	background: lightgray;
+}
+#oferta {
+	background:  lightgray;
+}
+
+
+ #Nimbo{
+	border: 3px solid #999;
+	box-sizing: border-box;
+	color: blaCK;
+	text-shadow: 1px 1px 1px white;
+	letter-spacing: 1px;
+	float: left;
+	padding: 1em;
+	width: 33%;
+	font-size: 18px;
+
+}
+#Nimbo1{
+	border: 3px solid #999;
+	box-sizing: border-box;
+	color: #444;
+	float: left;
+	padding: 1em;
+	width: 30%;
+
+}
+#Nimbo2{
+	border: 3px solid #999;
+	box-sizing: border-box;
+	color: blaCK;
+	text-shadow: 1px 1px 1px white;
+	letter-spacing: 1px;
+	float: left;
+	padding: 1em;
+	width: 31%;
+	font-size: 18px;
+
+}
+
+
+ #openbravo{
+	border: 3px solid #999;
+	box-sizing: border-box;
+	color: blaCK;
+	text-shadow: 1px 1px 1px white;
+	letter-spacing: 1px;
+	float: left;
+	padding: 1em;
+	width: 33%;
+	font-size: 18px;
+}
+#openbravo1{
+	border: 3px solid #999;
+	box-sizing: border-box;
+	color: #444;
+	float: left;
+	padding: 1em;
+	width: 33%;
+
+}
+#openbravo2{
+	border: 3px solid #999;
+	box-sizing: border-box;
+	color: blaCK;
+	text-shadow: 1px 1px 1px white;
+	letter-spacing: 1px;
+	float: left;
+	padding: 1em;
+	width: 28%;
+	font-size: 18px;
+}
+
+
+ #Quipu{
+	border: 3px solid #999;
+	box-sizing: border-box;
+	color: blaCK;
+	text-shadow: 1px 1px 1px white;
+	letter-spacing: 1px;
+	float: left;
+	padding: 1em;
+	width: 33%;
+	font-size: 18px;
+}
+#Quipu1{
+	border: 3px solid #999;
+	box-sizing: border-box;
+	color: #444;
+	float: left;
+	padding: 1em;
+	width: 33%;
+
+}
+#Quipu2{
+	border: 3px solid #999;
+	box-sizing: border-box;
+	color: blaCK;
+	text-shadow: 1px 1px 1px white;
+	letter-spacing: 1px;
+	float: left;
+	padding: 1em;
+	width: 28%;
+	font-size: 18px;
+}
+
+ #NetSuite{
+	border: 3px solid #999;
+	box-sizing: border-box;
+	color: blaCK;
+	text-shadow: 1px 1px 1px white;
+	letter-spacing: 1px;
+	float: left;
+	padding: 1em;
+	width: 33%;
+	font-size: 18px;
+}
+#NetSuite1{
+	border: 3px solid #999;
+	box-sizing: border-box;
+	color: #444;
+	float: left;
+	padding: 1em;
+	width: 33%;
+
+}
+#NetSuite2{
+	border: 3px solid #999;
+	box-sizing: border-box;
+	color: blaCK;
+	text-shadow: 1px 1px 1px white;
+	letter-spacing: 1px;
+	float: left;
+	padding: 1em;
+	width: 28%;
+	font-size: 18px;
+}
+
+ #kioscos{
+	border: 3px solid #999;
+	box-sizing: border-box;
+	color: blaCK;
+	text-shadow: 1px 1px 1px white;
+	letter-spacing: 1px;
+	float: left;
+	padding: 1em;
+	width: 33%;
+	font-size: 18px;
+}
+#kioscos1{
+	border: 3px solid #999;
+	box-sizing: border-box;
+	color: #444;
+	float: left;
+	padding: 1em;
+	width: 33%;
+
+}
+#kioscos2{
+	border: 3px solid #999;
+	box-sizing: border-box;
+	color: blaCK;
+	text-shadow: 1px 1px 1px white;
+	letter-spacing: 1px;
+	float: left;
+	padding: 1em;
+	width: 28%;
+	font-size: 18px;
+}	
+
+#volver {
+	box-sizing: border-box;
+	color: blaCK;
+	text-shadow: 1px 1px 1px white;
+	letter-spacing: 1px;
+	padding: 1em;
+	width: 28%;
+	font-size: 18px;
+}
+
+
